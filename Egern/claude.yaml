@@ -1,3 +1,5 @@
+no_resolve: true
+
 domain_set:
   - servd-anthropic-website.b-cdn.net
   - anthropic.com.cdn.cloudflare.net
@@ -21,3 +23,13 @@ domain_suffix_set:
 domain_keyword_set:
   - datadog
   - sift
+no_resolve: true
+
+ip_cidr_set:
+  - 160.79.104.0/21
+
+ip_cidr6_set:
+  - "2607:6bc0::/32"
+
+asn_set:
+  - "AS399358"
