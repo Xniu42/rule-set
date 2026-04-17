@@ -14,10 +14,55 @@ targets:
     sources:
       - openai
 
+  - id: private
+    enabled: true
+    sources:
+      - private
+
+  - id: google
+    enabled: true
+    sources:
+      - google
+
   - id: google-gemini
     enabled: true
     sources:
       - google-gemini
+
+  - id: github
+    enabled: true
+    sources:
+      - github
+
+  - id: apple
+    enabled: true
+    sources:
+      - apple
+
+  - id: apple-cn
+    enabled: true
+    sources:
+      - apple-cn
+
+  - id: microsoft
+    enabled: true
+    sources:
+      - microsoft
+
+  - id: microsoft-cn
+    enabled: true
+    sources:
+      - microsoft@cn
+
+  - id: onedrive
+    enabled: true
+    sources:
+      - onedrive
+
+  - id: geolocation-non-cn
+    enabled: true
+    sources:
+      - geolocation-!cn
 
   - id: category-ntp-cn
     enabled: true
