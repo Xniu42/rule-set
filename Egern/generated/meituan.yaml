@@ -1,0 +1,21 @@
+# source_repo: MetaCubeX/meta-rules-dat
+# source_branch: meta
+# source_names: meituan
+
+domain_suffix_set:
+  - 100.me
+  - ddcorp.net
+  - ddfresh.net
+  - ddimg.mobi
+  - ddmaicai.net
+  - ddmc.mobi
+  - dduser.mobi
+  - ddxq.mobi
+  - dianping.com
+  - imaicai.mobi
+  - maoyan.com
+  - meituan.com
+  - meituan.net
+  - mtyun.com
+  - neixin.cn
+  - sankuai.com

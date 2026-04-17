@@ -1,0 +1,100 @@
+upstream:
+  repo: MetaCubeX/meta-rules-dat
+  branch: meta
+  path: geo/geosite
+
+targets:
+  - id: anthropic
+    enabled: true
+    sources:
+      - anthropic
+
+  - id: openai
+    enabled: true
+    sources:
+      - openai
+
+  - id: google-gemini
+    enabled: true
+    sources:
+      - google-gemini
+
+  - id: category-ntp-cn
+    enabled: true
+    sources:
+      - category-ntp-cn
+
+  - id: category-ntp
+    enabled: true
+    sources:
+      - category-ntp
+
+  - id: category-cdn-cn
+    enabled: true
+    sources:
+      - category-cdn-cn
+
+  - id: category-ai-cn
+    enabled: true
+    sources:
+      - category-ai-cn
+
+  - id: chinaunicom
+    enabled: true
+    sources:
+      - chinaunicom
+
+  - id: chinatelecom
+    enabled: true
+    sources:
+      - chinatelecom
+
+  - id: chinamobile
+    enabled: true
+    sources:
+      - chinamobile
+
+  - id: tencent
+    enabled: true
+    sources:
+      - tencent
+
+  - id: netease
+    enabled: true
+    sources:
+      - netease
+
+  - id: category-bank-cn
+    enabled: true
+    sources:
+      - category-bank-cn
+
+  - id: alibaba
+    enabled: true
+    sources:
+      - alibaba
+
+  - id: aliyun
+    enabled: true
+    sources:
+      - aliyun
+
+  - id: huawei
+    enabled: true
+    sources:
+      - huawei
+
+  - id: huaweicloud
+    enabled: true
+    sources:
+      - huaweicloud
+
+  - id: meituan
+    enabled: true
+    sources:
+      - meituan
+
+  - id: jd
+    enabled: true
+    sources:
+      - jd
