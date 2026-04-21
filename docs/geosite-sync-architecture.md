@@ -75,6 +75,7 @@ rule-set/
 ├── Egern/
 │   ├── claude.yaml
 │   ├── custom.yaml
+│   ├── iherb.yaml
 │   └── generated/
 ├── config/
 │   └── geosite.yaml
@@ -94,6 +95,7 @@ rule-set/
 
 - `Egern/claude.yaml`: hand-maintained
 - `Egern/custom.yaml`: hand-maintained
+- `Egern/iherb.yaml`: hand-maintained
 - `Egern/generated/`: generated outputs only
 - `config/geosite.yaml`: source selection and output identity
 - `overrides/`: optional local patches

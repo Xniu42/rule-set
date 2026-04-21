@@ -1,0 +1,10 @@
+no_resolve: true
+
+domain_suffix_set:
+  - iherb.biz
+  - iherb.cn
+  - iherb.com
+  - images-iherb.com
+
+domain_keyword_set:
+  - iherb-product-suggest

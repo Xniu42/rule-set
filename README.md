@@ -41,6 +41,7 @@ Generated outputs may differ from upstream source files because:
 - [`Egern/generated/`](./Egern/generated): generated Egern rule-set files
 - [`Egern/claude.yaml`](./Egern/claude.yaml): hand-maintained file
 - [`Egern/custom.yaml`](./Egern/custom.yaml): hand-maintained file
+- [`Egern/iherb.yaml`](./Egern/iherb.yaml): hand-maintained file
 - [`config/geosite.yaml`](./config/geosite.yaml): selected upstream GeoSite targets
 - [`overrides/`](./overrides): optional local include/exclude patches
 - [`scripts/build_geosite.py`](./scripts/build_geosite.py): conversion script

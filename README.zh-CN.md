@@ -41,6 +41,7 @@ MetaCubeX GeoSite 数据在 sing-box 与 Clash/Mihomo 中可通过 `geosite:xxx`
 - [`Egern/generated/`](./Egern/generated)：自动生成的 Egern rule-set 文件
 - [`Egern/claude.yaml`](./Egern/claude.yaml)：手工维护文件
 - [`Egern/custom.yaml`](./Egern/custom.yaml)：手工维护文件
+- [`Egern/iherb.yaml`](./Egern/iherb.yaml)：手工维护文件
 - [`config/geosite.yaml`](./config/geosite.yaml)：上游 GeoSite 选择配置
 - [`overrides/`](./overrides)：可选的本地 include/exclude 补丁
 - [`scripts/build_geosite.py`](./scripts/build_geosite.py)：转换脚本
