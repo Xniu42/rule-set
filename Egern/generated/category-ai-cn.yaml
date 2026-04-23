@@ -11,7 +11,6 @@ domain_suffix_set:
   - askdiandian.com
   - baichuan-ai.com
   - bigmodel.cn
-  - botvip.cn
   - butterfly-static.cn
   - butterflyai.cn
   - chatglm.cn
@@ -36,6 +35,8 @@ domain_suffix_set:
   - hunyuan.tencent.com
   - kimi.com
   - liblib.art
+  - liblib.cloud
+  - liblib.tv
   - maoxiangai.com
   - marscode.cn
   - marscode.com.cn
@@ -62,6 +63,7 @@ domain_suffix_set:
   - rwkv.cn
   - rwkv.com
   - skillhub.cn
+  - tapnow.top
   - tcwqqdy.guru
   - tiangong.cn
   - tongyi.aliyun.com
