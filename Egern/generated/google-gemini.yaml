@@ -17,6 +17,7 @@ domain_set:
 
 domain_suffix_set:
   - ai.studio
+  - aicode.googleapis.com
   - aida.googleapis.com
   - aisandbox-pa.googleapis.com
   - aistudio.google.com
