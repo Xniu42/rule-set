@@ -232,6 +232,7 @@ domain_set:
   - tf-feedback.itunes.apple.com
   - tj-pod1-smp-device.apple.com
   - tv.applemusic.com
+  - universal-activity-service.itunes.apple.com
   - updates-http.cdn-apple.com
   - updates-http.cdn-apple.com.akadns.net
   - updates.cdn-apple.com
