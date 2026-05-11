@@ -4,7 +4,9 @@ domain_suffix_set:
   - iherb.biz
   - iherb.cn
   - iherb.com
+  - iherb.co
   - images-iherb.com
 
 domain_keyword_set:
   - iherb-product-suggest
+  - iherb-ds
