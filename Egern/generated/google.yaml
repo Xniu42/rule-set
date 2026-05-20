@@ -46,9 +46,7 @@ domain_set:
   - cloudaicompanion.googleapis.com
   - cloudcode-pa.googleapis.com
   - cn.widevine.com
-  - cnappinstall.googleadapis.com
   - connectivitycheck.gstatic.com
-  - content.googleadapis.com
   - crashlyticsreports-pa.googleapis.com
   - crl.pki.goog
   - crls.pki.goog
@@ -61,9 +59,7 @@ domain_set:
   - doubleclick-cn.net
   - doubleclick.net
   - download.mlcc.google.com
-  - download.qatp1.net
   - download.tensorflow.google.com
-  - emmapplecodevice.googleapis.com
   - firebase-settings.crashlytics.com
   - firebase.google.com
   - firebase.googleapis.com
@@ -84,7 +80,6 @@ domain_set:
   - g1.gstatic.com
   - g2.gstatic.com
   - g3.gstatic.com
-  - go.corp.google.com
   - gonglchuangl.net
   - gongyichuangyi.net
   - google-analytics-cn.com
@@ -112,11 +107,6 @@ domain_set:
   - gtm.oasisfeng.com
   - i.pki.goog
   - imasdk.googleapis.com
-  - l2-uberproxy.corp.google.com
-  - logger-dev.corp.google.com
-  - logger.corp.google.com
-  - login.corp.google.com
-  - monitoring.qpdp1.net
   - mtalk-dev.google.com
   - mtalk-staging.google.com
   - mtalk.google.com
@@ -133,16 +123,9 @@ domain_set:
   - prod-controlbe.floonet.goog
   - prod-databe.floonet.goog
   - prod.databe.floonet.goog
-  - proxyconfig.corp.google.com
   - publicca.googleapis.com
-  - qagpublic.qatp1.net
-  - qgadmin.qcpp1.net
   - qiao-cn.com
   - qpx.googleflights.net
-  - qualysapi.qatp1.net
-  - qualysguard.qpdp1.net
-  - r.cert.corp.google.com
-  - rapture-prod.corp.google.com
   - recaptcha-cn.net
   - recaptcha.net
   - redirector.bdn.dev
@@ -158,7 +141,6 @@ domain_set:
   - redirector.xn--ngstr-lra8j.com
   - safebrowsing-cache.google.com
   - safebrowsing.googleapis.com
-  - scanservice1.qcpp1.net
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be
@@ -238,23 +220,11 @@ domain_set:
   - service.urchin.com
   - ssl-google-analytics.l.google.com
   - ssl.gstatic.com
-  - sslredirect.corp.google.com
   - staging-controlbe.floonet.goog
   - staging-databe.floonet.goog
   - staging.databe.floonet.goog
-  - streaming-uberproxy-rotation.corp.google.com
-  - streaming-uberproxy.corp.google.com
-  - sup-ssh-relay.corp.google.com
-  - sup-ssh-relay2.corp.google.com
-  - sup.corp.google.com
-  - sup.l.google.com
   - tac.googleapis.com
-  - test.gbugs-qa.chromium.org
   - tools.google.com
-  - tools.l.google.com
-  - uberproxy-debug4.corp.google.com
-  - uberproxy.corp.google.com
-  - uberproxy6.corp.google.com
   - update.crashlytics.com
   - update.googleapis.com
   - wear.googleapis.com
@@ -265,7 +235,6 @@ domain_set:
   - www.gstatic.com
   - www.pxcc.com
   - www.recaptcha.net
-  - xn--flw351e.com
   - yt3.googleusercontent.com
 
 domain_suffix_set:
