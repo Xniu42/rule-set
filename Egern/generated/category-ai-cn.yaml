@@ -8,6 +8,8 @@ domain_set:
 
 domain_suffix_set:
   - aispeech.com
+  - antafu.com
+  - antaq.com
   - api-building.fun
   - askdiandian.com
   - baichuan-ai.com
