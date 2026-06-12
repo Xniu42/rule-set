@@ -3,7 +3,6 @@
 # source_names: google
 
 domain_set:
-  - 265.com
   - 2mdn-cn.net
   - 2mdn.net
   - admob-cn.com
@@ -234,6 +233,7 @@ domain_set:
   - www.destinationurl.com
   - www.gstatic.com
   - www.pxcc.com
+  - www.recaptcha-cn.net
   - www.recaptcha.net
   - yt3.googleusercontent.com
 
@@ -241,6 +241,7 @@ domain_suffix_set:
   - 0emm.com
   - 1e100.net
   - 1ucrs.com
+  - 265.com
   - 2mdn-cn.net
   - 2mdn.net
   - 466453.com
@@ -392,6 +393,7 @@ domain_suffix_set:
   - coova.com
   - coova.net
   - coova.org
+  - crashlytics.com
   - crossmediapanel.com
   - crr.com
   - cs4hs.com
