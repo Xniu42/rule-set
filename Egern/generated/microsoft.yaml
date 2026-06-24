@@ -304,6 +304,7 @@ domain_suffix_set:
   - efproject.net
   - elderscrolls.com
   - engkoo.com
+  - exp-tas.com
   - fasttrackreadysupport.com
   - femalefounderscomp.com
   - flightsimulator.com
@@ -328,6 +329,7 @@ domain_suffix_set:
   - git.io
   - github.ai
   - github.blog
+  - github.career
   - github.com
   - github.community
   - github.dev
@@ -698,7 +700,10 @@ domain_suffix_set:
   - vsassets.io
   - vscode-cdn.net
   - vscode-unpkg.net
+  - vscode-webview.net
   - vscode.dev
+  - vscodeedu.app
+  - vscodeedu.com
   - wbd.ms
   - what-fan.net
   - windows
