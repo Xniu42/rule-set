@@ -39,6 +39,7 @@ domain_suffix_set:
   - adsview2.qq.com
   - adv.app.qq.com
   - adver.qq.com
+  - aireads.cn
   - aitransfy.com
   - alloyteam.com
   - anticheatexpert.com
@@ -101,6 +102,14 @@ domain_suffix_set:
   - cdnv1.cn
   - cdnv2.cn
   - cdnv3.cn
+  - chatdrama.cn
+  - chatdrama.net
+  - chatqidian.cn
+  - chatqidian.net
+  - chattext.cn
+  - chatwrite.net
+  - chatxiaoxiang.com
+  - chatyuewen.cn
   - cloud-industry-delivery.site
   - cloudbase.cn
   - cloudbase.net
@@ -128,6 +137,7 @@ domain_suffix_set:
   - dcloudvod.net
   - discuz.net
   - discuz.org
+  - dishu3.com
   - dns.pub
   - dnsapi.cn
   - dnse0.cn
@@ -251,6 +261,7 @@ domain_suffix_set:
   - inte.sogou.com
   - inte.sogoucdn.com
   - intltencentcos.com
+  - iot-tencent.com
   - isd.com
   - isdspeed.qq.com
   - ispqcloud.com
@@ -626,6 +637,7 @@ domain_suffix_set:
   - weishi.com
   - weixin.com
   - weixinbridge.com
+  - weixinsxy.com
   - weiyun.com
   - werepository.com.cn
   - wetv.vip
@@ -639,6 +651,7 @@ domain_suffix_set:
   - wxcloudrun.com
   - wxgateway.com
   - wxlivecdn.com
+  - wxmpurl.cn
   - xiangrikuijianzhan.com
   - xiangrikuisite.com
   - ximalaya.com
@@ -650,6 +663,7 @@ domain_suffix_set:
   - xs.cn
   - xs8.cn
   - xxsy.net
+  - xxsypro.com
   - yeyousg.com
   - yidianliulan.cn
   - yidianliulan.com
