@@ -318,6 +318,7 @@ domain_set:
   - oneocsp.microsoft.com
   - ood.opsource.net
   - openaiapi-site.azureedge.net
+  - openaiassets.blob.core.windows.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicom.imgix.net
   - openaicomproductionae4b.blob.core.windows.net
@@ -6544,6 +6545,7 @@ domain_suffix_set:
   - coova.com
   - coova.net
   - coova.org
+  - copilot.com
   - copro.pw
   - copy-manga.com
   - copy20.com
@@ -24841,6 +24843,7 @@ domain_suffix_set:
   - webpkgcache.com
   - webrtc.org
   - websdr.org
+  - webshare.io
   - website.new
   - webtoons.com
   - webtoonscorp.com
