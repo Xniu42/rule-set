@@ -168,6 +168,7 @@ domain_suffix_set:
   - aztask.cn
   - azure
   - azure-api.cn
+  - azure-api.net
   - azure-apihub.cn
   - azure-automation.cn
   - azure-connectedvehicles-stage.cn
@@ -231,6 +232,7 @@ domain_suffix_set:
   - azureserviceprofiler.com
   - azuresmartspaces.net
   - azurestackvalidation.com
+  - azurestaticapps.net
   - azurewebsites.net
   - b2clogin.cn
   - b3itech.cn
