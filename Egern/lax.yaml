@@ -1,0 +1,8 @@
+# To Lax
+
+no_resolve: true
+
+domain_suffix_set:
+  - ollama.com
+  - openrouter.ai
+  - opencode.ai
