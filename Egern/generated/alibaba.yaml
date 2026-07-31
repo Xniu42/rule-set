@@ -7,6 +7,7 @@ domain_set:
   - api.alibabacloud.com
   - cn.alibabacloud.com
   - status.alibabacloud.com
+  - ykimg.alicdn.com
 
 domain_suffix_set:
   - 11222.cn
@@ -58,6 +59,7 @@ domain_suffix_set:
   - alibaba.com
   - alibabacapital.com
   - alibabachengdun.com
+  - alibabachengdun.net
   - alibabacloud.co.in
   - alibabacloud.com
   - alibabacloud.com.au
@@ -69,6 +71,8 @@ domain_suffix_set:
   - alibabadesign.com
   - alibabadns.com
   - alibabadoctor.com
+  - alibabafonts.com
+  - alibabafoundation.com
   - alibabafuturehotel.com
   - alibabagroup.com
   - alibabapictures.com
@@ -144,6 +148,7 @@ domain_suffix_set:
   - alogs.umeng.com
   - alogus.umeng.com
   - alyms.cn
+  - alysm.cn
   - amap.com
   - amap.net
   - amapauto.com
@@ -218,6 +223,7 @@ domain_suffix_set:
   - fcapp.run
   - feizhu.cn
   - feizhu.com
+  - fengniaojipei.net
   - fliggy.com
   - fliggy.hk
   - fourier.taobao.com
@@ -239,6 +245,8 @@ domain_suffix_set:
   - hemashare.cn
   - hichina.com
   - hupan.com
+  - hzchengdun.com
+  - hzchengdun.net
   - ialicdn.com
   - ica-alliance.org
   - iconfont.cn
@@ -389,6 +397,7 @@ domain_suffix_set:
   - taobaocdn.com
   - taobizhong.com
   - taopiaopiao.com
+  - taotian.com
   - tb.cn
   - tbcache.com
   - tbcdn.cn
@@ -399,6 +408,7 @@ domain_suffix_set:
   - teambitionapis.com
   - tmall
   - tmall.com
+  - tmall.hk
   - tmall.ru
   - tmalltv.com
   - tmjl.ai
@@ -434,6 +444,8 @@ domain_suffix_set:
   - xiami.net
   - xin.xin
   - xinlingshou.cn
+  - xixikf.cn
+  - yisou.com
   - yk-ssp.ad.youku.com
   - ykad-data.youku.com
   - ykimg.com
