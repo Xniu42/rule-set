@@ -8,8 +8,10 @@ domain_suffix_set:
   - andfx.cn
   - andfx.net
   - chinamobile.com
+  - chinamobiledevice.com
   - chinamobileltd.com
   - cmcc-cs.cn
+  - cmdcxls.com
   - cmft.com.cn
   - cmicapm.com
   - cmicrwx.cn
@@ -18,9 +20,11 @@ domain_suffix_set:
   - cmpay.com
   - cmread.com
   - cmvideo.cn
+  - cxzx10086.cn
   - cytxl.com.cn
   - fetion-portal.com
   - fetionpic.com
+  - fxltsbl.com
   - migu.cn
   - migucloud.com
   - migufun.com
@@ -30,3 +34,4 @@ domain_suffix_set:
   - online-cmcc.cn
   - speedtest.hk.chinamobile.com
   - speedtestbb.hk.chinamobile.com
+  - zdsdp.com
