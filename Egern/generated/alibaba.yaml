@@ -182,7 +182,11 @@ domain_suffix_set:
   - cdngslb.com
   - cheng.xin
   - cloudeagle.cn
+  - cn-beijing.aliyuncs.com
+  - cn-chengdu.aliyuncs.com
+  - cn-guangzhou.aliyuncs.com
   - cn-hangzhou.aliyuncs.com
+  - cn-hongkong.aliyuncs.com
   - cn-shanghai.aliyuncs.com
   - cnlogs.umeng.com
   - cnlogs.umengcloud.com
@@ -244,6 +248,7 @@ domain_suffix_set:
   - hemaos.com
   - hemashare.cn
   - hichina.com
+  - hotfix-api.aliyuncs.com
   - hupan.com
   - hzchengdun.com
   - hzchengdun.net
@@ -368,6 +373,7 @@ domain_suffix_set:
   - puata.info
   - qingtingtrip.com
   - quark.cn
+  - registry.aliyuncs.com
   - resolve.umeng.com
   - retcode.taobao.com
   - rexpos.cn
