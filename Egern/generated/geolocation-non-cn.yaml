@@ -1488,6 +1488,9 @@ domain_suffix_set:
   - activelearnprimary.com.au
   - activematter.game
   - activeteachonline.com
+  - activision.com
+  - activisionblizzard.com
+  - activisionblizzardmedia.com
   - activpn.com
   - actualidad-rt.com
   - aculo.us
@@ -4103,6 +4106,7 @@ domain_suffix_set:
   - bellotube.com
   - bellsouth.net
   - benaughty.fun
+  - benefitsforeveryworld.com
   - bengalisexvideos.com
   - benliton.com
   - bentobox.tv
@@ -5559,6 +5563,11 @@ domain_suffix_set:
   - callbackkiller.com
   - callersbane.com
   - callhulu.com
+  - callofduty.com
+  - callofdutyendowment.com
+  - callofdutyendowment.org
+  - callofdutyleague.com
+  - callofdutymobile.com
   - cam-duct.com
   - cam4.com
   - cam69.com
@@ -5610,6 +5619,7 @@ domain_suffix_set:
   - camwhoria.com
   - canada-beatsbydre.com
   - candidforum-videos.com
+  - candycrush.com
   - candycumcity.com
   - candypleasure.com
   - canny.io
@@ -6678,6 +6688,7 @@ domain_suffix_set:
   - crackle.com
   - craigslist.org
   - crankplayer.com
+  - crashbandicoot.com
   - crashlytics.com
   - crates.io
   - crazy-amateurs.com
@@ -7253,6 +7264,7 @@ domain_suffix_set:
   - demo.unlock-music.dev
   - democracy.earth
   - demonoid.is
+  - demonware.net
   - demoprint.com
   - demosisto.hk
   - denfaminicogamer.jp
@@ -7373,7 +7385,9 @@ domain_suffix_set:
   - dgwav.com
   - dh44.lol
   - dhlestudio.com.co
+  - diablo.com
   - diablo3.com
+  - diablo4.com
   - diabloimmortal.com
   - diabrowser.com
   - diabrowser.engineering
@@ -8802,6 +8816,7 @@ domain_suffix_set:
   - europeansustainabledesign.net
   - europeansustainabledesigncouncil.com
   - europeansustainabledesigncouncil.net
+  - europeanwarzoneseries.com
   - europepmc.org
   - europornstar.com
   - eurosexscene.com
@@ -11821,6 +11836,7 @@ domain_suffix_set:
   - hifuli.com
   - highbolt.net
   - highdefinitionbeatsbydre.com
+  - highmoonstudios.com
   - highporn.net
   - highrockmedia.com
   - hightopnikes.com
@@ -12965,6 +12981,7 @@ domain_suffix_set:
   - industrialtoys.com
   - infinitetoons.com
   - infinitetube.com
+  - infinityward.com
   - influencersgonewild.com
   - info-graf.fr
   - infocert.digital
@@ -14310,6 +14327,7 @@ domain_suffix_set:
   - kindnudist.com
   - kindteenporn.com
   - kinescopecdn.net
+  - king.com
   - kingcomix.com
   - kingdomsalvation.org
   - kingextre.me
@@ -19895,6 +19913,7 @@ domain_suffix_set:
   - ratedgross.com
   - rateyourmusic.com
   - rationalwiki.org
+  - ravensoftware.com
   - ravm.tv
   - raw.githack.com
   - rawgit.com
@@ -20787,6 +20806,7 @@ domain_suffix_set:
   - seiron-sankei.com
   - sejie80.com
   - sekai.colorfulpalette.org
+  - sekirothegame.com
   - seksmet.nl
   - sekswebsite.nl
   - sekur1213.guru
@@ -21243,6 +21263,7 @@ domain_suffix_set:
   - sidelinesnews.com
   - sider.ai
   - siege-amazon.com
+  - sierragames.com
   - sifangclub.com
   - sigcomm.org
   - sigmoidoscopeexam.com
@@ -21369,6 +21390,7 @@ domain_suffix_set:
   - sky.com
   - skyassets.com
   - skybet.com
+  - skylanders.com
   - skymansion.net
   - skymatter.com
   - skyoceanrescue.com
@@ -21410,6 +21432,7 @@ domain_suffix_set:
   - sldolls.com
   - sleazyfork.org
   - sleazyneasy.com
+  - sledgehammergames.com
   - slheng.com
   - slickvpn.com
   - slides.com
@@ -21555,6 +21578,7 @@ domain_suffix_set:
   - solarsystem.nasa.gov
   - solid.ru
   - solidifi.app
+  - solidstate.com
   - solostudioksale.com
   - solscan.io
   - solutionstation.com
@@ -21810,6 +21834,7 @@ domain_suffix_set:
   - sputnikmediabank.com
   - sputniknews.com
   - spyjinx.com
+  - spyrothedragon.com
   - sqlite.org
   - sqlserveronlinux.com
   - sqool.net
@@ -23089,6 +23114,8 @@ domain_suffix_set:
   - toncenter.com
   - tonec.com
   - tonicmovies.com
+  - tonyhawk.com
+  - tonyhawkthegame.com
   - toolforge.org
   - toolmaking-cadcam.com
   - toomadporn.pro
@@ -23240,6 +23267,7 @@ domain_suffix_set:
   - trendmicro.com
   - trendsmap.com
   - trendyporn.com
+  - treyarch.com
   - trezor.io
   - triballo.net
   - tribler.org
@@ -25394,6 +25422,7 @@ domain_suffix_set:
   - worldscientific.com
   - worldsecureemail.com
   - worldsecuresystems.com
+  - worldseriesofwarzone.com
   - worldsex.com
   - worldsfastestgamer.net
   - worldvpn.net
