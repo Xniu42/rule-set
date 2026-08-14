@@ -20348,6 +20348,7 @@ domain_suffix_set:
   - rsdlmonitor.com
   - rsf-chinese.org
   - rsf.org
+  - rsg.ms
   - rsg.sc
   - rshb.ru
   - rsk.co
@@ -20674,6 +20675,8 @@ domain_suffix_set:
   - sbux.com.my
   - sbuxcard.com
   - sc-cdn.net
+  - sc-gw.com
+  - sc-static.net
   - sc.com
   - sca-tolo.info
   - scala-lang.org
