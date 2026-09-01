@@ -547,7 +547,9 @@ domain_suffix_set:
   - tencentcdb.cn
   - tencentcdb.com
   - tencentcdb.com.cn
+  - tencentclb.cn
   - tencentclb.com
+  - tencentclb.com.cn
   - tencentcloud-aiot.com
   - tencentcloud.com
   - tencentcloudapi.com
@@ -571,6 +573,7 @@ domain_suffix_set:
   - tencentelasticsearch.com
   - tencentid.com
   - tencentidentity.com
+  - tencentmiying.com
   - tencentmusic.com
   - tencentproxy.com
   - tencentrio.com
@@ -581,6 +584,7 @@ domain_suffix_set:
   - tencentyun.com
   - tendbcluster.com
   - tendis.net
+  - tengmed.com
   - tenpay.com
   - testjrzk.net.cn
   - testmeet.cn
