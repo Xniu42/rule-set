@@ -229,6 +229,8 @@ domain_set:
   - gamedownloads-rockstargames-com.akamaized.net
   - gamer-cds.cdn.hinet.net
   - gamer2-cds.cdn.hinet.net
+  - geminiweb-pa.clients.google.com
+  - geminiweb-pa.clients6.google.com
   - gigabyte2.azureedge.net
   - github-api.arkoselabs.com
   - github-cloud.s3.amazonaws.com
@@ -12374,6 +12376,7 @@ domain_suffix_set:
   - huaren.us
   - huarenav.com
   - huarenporn.com
+  - huarun.win
   - huashangnews.com
   - huashundg.com
   - huati.cc
@@ -15648,6 +15651,7 @@ domain_suffix_set:
   - met-nude.com
   - meta.ai
   - meta.com
+  - metaaivm.com
   - metabora.io
   - metabrainz.org
   - metacloud.com
@@ -16654,6 +16658,7 @@ domain_suffix_set:
   - muscache.com
   - muscdn.com
   - musclegirlflix.com
+  - muse.ai
   - mushroomtrack.com
   - mushymush.tv
   - musical.ly
@@ -18121,6 +18126,7 @@ domain_suffix_set:
   - openbook.org.tw
   - opencas.io
   - openclaw.ai
+  - opencode.ai
   - opencollective.com
   - opencreate.org
   - opencritic.com
