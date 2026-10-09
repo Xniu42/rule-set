@@ -38,6 +38,7 @@ domain_set:
 
 domain_suffix_set:
   - atom.io
+  - cafe.github.com
   - collector.github.com
   - dependabot.com
   - gh.io
