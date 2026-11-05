@@ -4139,6 +4139,7 @@ domain_suffix_set:
   - beget.cloud
   - beget.com
   - beget.de
+  - beget.email
   - beget.hosting
   - beget.pro
   - beget.ru
@@ -4362,6 +4363,7 @@ domain_suffix_set:
   - bili2.cc
   - bili888.com
   - bili999.com
+  - bilibili.tv
   - bilinovel.com
   - biliplus.com
   - biliworld.com
@@ -14897,6 +14899,9 @@ domain_suffix_set:
   - lilhumpers.com
   - liliav.com
   - lilith-soft.com
+  - limbuscompany.global
+  - limbuscompanyapi.com
+  - limbuscompanycdn.org
   - limedia.tw
   - limelight.com
   - limer.tw
@@ -19786,6 +19791,7 @@ domain_suffix_set:
   - projectcircuitbreaker.com
   - projecteuclid.org
   - projectjav.com
+  - projectmoon.studio
   - projectmurphy.net
   - projectpoint.com
   - projectpoint.net
@@ -21634,6 +21640,7 @@ domain_suffix_set:
   - skillshare.com
   - skimtube.com
   - skinstrip.net
+  - skinswap.com
   - skokka.com
   - sksarab.top
   - skunkgirl.cc
