@@ -7,6 +7,7 @@ domain_set:
   - cueme-api.quark.cn
 
 domain_suffix_set:
+  - ai-indeed.com
   - aispeech.com
   - antafu.com
   - antaq.com
@@ -99,6 +100,12 @@ domain_suffix_set:
   - rwkv.cn
   - rwkv.com
   - safeskill.cn
+  - senseaudio.cn
+  - senseavatar.com
+  - sensecore.cn
+  - sensefoundry.cn
+  - sensenova.cn
+  - sensetime.com
   - shunjing.xin
   - skillhub.cn
   - sleeplesshorizon.cn
@@ -112,6 +119,7 @@ domain_suffix_set:
   - trae.guru
   - workbuddy.cn
   - xiaoaiassist.com
+  - xiaohuanxiong.com
   - xiaomimimo.com
   - xiezuocat.com
   - xinghuo.xfyun.cn
