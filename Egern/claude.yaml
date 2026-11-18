@@ -6,6 +6,7 @@ domain_set:
   - anthropic.auth0.com
   - anthropic-com.ghost.io
   - browser-intake-us5-datadoghq.com
+  - http-intake.logs.us5.datadoghq.com
   - cdn.usefathom.com
 
 domain_suffix_set:
