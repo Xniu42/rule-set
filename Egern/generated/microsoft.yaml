@@ -3,6 +3,7 @@
 # source_names: microsoft
 
 domain_set:
+  - aurora-customization-usw2.lithium.com
   - az764295.vo.msecnd.net
   - azure.microsoft.com
   - azuremarketplace.microsoft.com
